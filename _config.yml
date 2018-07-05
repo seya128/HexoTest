@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: Hexoテスト
+subtitle: Hexoテスト用のサイト
+description: Hexoテスト用のサイトを作ってやったぜ
+keywords: Hexo Test テスト
+author: 瀬谷
+language: 
 timezone:
 
 # URL
