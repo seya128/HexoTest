@@ -16,19 +16,19 @@ thumbnail: https://i.gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d.gif
 スクリーンショットを、撮る・保存・共有全て簡単にできるサービス「Gyazo」  
 [Gyazoへようこそ : スクリーンショットの瞬間共有](https://gyazo.com/about?lang=ja)
 
-デスクトップアプリをインストールすることで、静止画、動画でスクリーンショットを撮れます。
+デスクトップアプリやChrome拡張で、静止画、動画でスクリーンショットを撮れます。
 
 ### Chrome拡張
-[![Image from Gyazo](https://i.gyazo.com/706a697d23db26ae75664e8ed2cfb077.png)](https://gyazo.com/706a697d23db26ae75664e8ed2cfb077)  
 Chrome拡張を入れれば、WEBページ全体や、パーツ単位でのキャプチャも簡単。
+[![Image from Gyazo](https://i.gyazo.com/706a697d23db26ae75664e8ed2cfb077.png)](https://gyazo.com/706a697d23db26ae75664e8ed2cfb077)  
 
 ### リンクの共有
-[![Image from Gyazo](https://i.gyazo.com/2fe1a298aa9813e242a13258593d200a.png)](https://gyazo.com/2fe1a298aa9813e242a13258593d200a)  
-撮った画像は、クラウドに保存され、簡単にシェアするためのHTMLもコピーできます。
+撮った画像は、クラウドに保存され、簡単にシェアするためのURLもコピーできます。
 Markdownのリンクコピーは、すごく便利！
 ```
 [![Image from Gyazo](https://i.gyazo.com/2fe1a298aa9813e242a13258593d200a.png)](https://gyazo.com/2fe1a298aa9813e242a13258593d200a)  
 ```
+[![Image from Gyazo](https://i.gyazo.com/2fe1a298aa9813e242a13258593d200a.png)](https://gyazo.com/2fe1a298aa9813e242a13258593d200a)  
 
 ### 動画
 無料版は７秒しか取れないけど、有料プランにすると６０秒も取れるらしい。
