@@ -3,12 +3,12 @@ title: 「このページを翻訳しますか？」対策
 date: 2018-07-10 21:50:07
 thumbnail: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png
 categories:
+- コーディング
 - Hexo
-- テーマ
 tags:
 - Hexo
 - テーマ
-- hueman
+- HTML
 ---
 ![](https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png)
 Hexoで生成されたページをChromeで表示すると「このページを翻訳しますか？」と毎回出てうっとおしかったので対策をした。
@@ -24,9 +24,9 @@ Hexoで生成されたページをChromeで表示すると「このページを�
 
 ## Hexoテーマへの反映
 
-Hexoでは、_config.ymlに、languageを指定しているので、その値を使ってcontentの値を設定します。
+Hexoでは、_config.ymlに、languageを指定しているので、その値を使ってcontentの値を設定します。
 
-huemanテーマでは、
+huemanテーマでは、
 themes/hueman/layout/common/head.ejs
 を、書き換えます。
 

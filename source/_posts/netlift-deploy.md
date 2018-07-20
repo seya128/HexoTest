@@ -3,8 +3,8 @@ title: netliftyにデプロイ
 date: 2018-07-05 17:39:26
 thumbnail: https://lh3.googleusercontent.com/mNOCTq5RxV8JaZONUminIjbThYc4ujE_Lb5x8fwiYJ3Mde4XLzqi-ho3fS6YTLIndsjPXjizQoNIxsrNDLA4Ym_bVwXDac8L8Vnn8EX5ya8gk754uccVR2-sr-IMywNOF2iYMnB7rAg
 categories:
+- コーディング
 - Hexo
-- デプロイ
 tags:
 - Hexo
 - デプロイ

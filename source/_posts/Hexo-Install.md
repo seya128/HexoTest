@@ -1,13 +1,13 @@
 ---
 title: Hexo インストール
 date: 2018-07-05 15:38:34
+thumbnail: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png
 categories:
+- コーディング
 - Hexo
-- インストール
 tags:
 - Hexo
 - インストール
-- Windows
 ---
 すごく簡単。
 
