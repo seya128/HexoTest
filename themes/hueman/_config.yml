@@ -8,14 +8,11 @@ menu:
 # Customize
 customize:
     logo:
-        width: 0
-        height: 0
-        url: 
-        #width: 165
-        #height: 60
-        #url: images/logo-header.png
+        width: 260
+        height: 50
+        url: images/logo.png
     #theme_color: '#006bde'
-    theme_color: '#d35'
+    theme_color: '#1683ae'
     highlight: androidstudio
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
