@@ -1,18 +1,17 @@
 ---
 title: netliftyにデプロイ
 date: 2018-07-05 17:39:26
-thumbnail: https://lh3.googleusercontent.com/mNOCTq5RxV8JaZONUminIjbThYc4ujE_Lb5x8fwiYJ3Mde4XLzqi-ho3fS6YTLIndsjPXjizQoNIxsrNDLA4Ym_bVwXDac8L8Vnn8EX5ya8gk754uccVR2-sr-IMywNOF2iYMnB7rAg
+thumbnail: https://i.gyazo.com/25fdd93ed497fb5f4fb10724493cec5b.png
 categories:
-- コーディング
+- CODING
 - Hexo
 tags:
 - Hexo
-- デプロイ
+- Deploy
 - netlifty
 ---
-<img src="https://lh3.googleusercontent.com/mNOCTq5RxV8JaZONUminIjbThYc4ujE_Lb5x8fwiYJ3Mde4XLzqi-ho3fS6YTLIndsjPXjizQoNIxsrNDLA4Ym_bVwXDac8L8Vnn8EX5ya8gk754uccVR2-sr-IMywNOF2iYMnB7rAg" width="100%" />
+![](https://i.gyazo.com/25fdd93ed497fb5f4fb10724493cec5b.png)
 
-![](https://lh3.googleusercontent.com/mNOCTq5RxV8JaZONUminIjbThYc4ujE_Lb5x8fwiYJ3Mde4XLzqi-ho3fS6YTLIndsjPXjizQoNIxsrNDLA4Ym_bVwXDac8L8Vnn8EX5ya8gk754uccVR2-sr-IMywNOF2iYMnB7rAg=w1259-h944-no)
 ## netliftyでブログを公開
 
 https://www.netlify.com/

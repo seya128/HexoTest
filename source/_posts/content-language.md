@@ -3,11 +3,11 @@ title: 「このページを翻訳しますか？」対策
 date: 2018-07-10 21:50:07
 thumbnail: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png
 categories:
-- コーディング
+- CODING
 - Hexo
 tags:
 - Hexo
-- テーマ
+- Theme
 - HTML
 ---
 ![](https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png)

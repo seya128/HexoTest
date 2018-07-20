@@ -3,11 +3,11 @@ title: カテゴリーのつけ方
 date: 2018-07-05 15:20:51
 thumbnail: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png
 categories:
-- コーディング
+- CODING
 - Hexo
 tags:
 - Hexo
-- カテゴリー
+- category
 ---
 ## カテゴリーの記述方法
 ```
