@@ -6,6 +6,7 @@ categories:
 tags:
   - Gyazo
   - Screenshot
+  - free
 date: 2018-07-20 23:42:33
 thumbnail: https://i.gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d.gif
 ---

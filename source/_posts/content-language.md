@@ -1,7 +1,7 @@
 ---
 title: 「このページを翻訳しますか？」対策
 date: 2018-07-10 21:50:07
-thumbnail: https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png
+thumbnail: https://i.gyazo.com/bac49cb265909598c161016ddb0aa12f.png
 categories:
 - CODING
 - Hexo
@@ -10,7 +10,7 @@ tags:
 - Theme
 - HTML
 ---
-![](https://pbs.twimg.com/profile_images/476729162707644418/mQZOTo9f_400x400.png)
+![](https://i.gyazo.com/bac49cb265909598c161016ddb0aa12f.png)
 Hexoで生成されたページをChromeで表示すると「このページを翻訳しますか？」と毎回出てうっとおしかったので対策をした。
 
 ## 対策
