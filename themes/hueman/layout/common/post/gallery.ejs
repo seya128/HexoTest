@@ -6,4 +6,8 @@
     </a>
     <% }) %>
 </div>
+<% } else if (post.thumbnail) { %>
+<div class="article-entry">
+    <img src="<%- url_for(post.thumbnail) %>" />
+</div>
 <% } %>

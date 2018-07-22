@@ -10,8 +10,6 @@ tags:
 - Deploy
 - netlifty
 ---
-![](https://i.gyazo.com/25fdd93ed497fb5f4fb10724493cec5b.png)
-
 ## netliftyでブログを公開
 
 https://www.netlify.com/

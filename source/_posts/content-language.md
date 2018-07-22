@@ -10,7 +10,6 @@ tags:
 - Theme
 - HTML
 ---
-![](https://i.gyazo.com/bac49cb265909598c161016ddb0aa12f.png)
 Hexoで生成されたページをChromeで表示すると「このページを翻訳しますか？」と毎回出てうっとおしかったので対策をした。
 
 ## 対策

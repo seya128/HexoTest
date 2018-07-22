@@ -10,8 +10,6 @@ tags:
 date: 2018-07-20 23:42:33
 thumbnail: https://i.gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d.gif
 ---
-[![Image from Gyazo](https://i.gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d.gif)](https://gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d)
-
 ## スクリーンショットならこのサービス！？
 
 スクリーンショットを、撮る・保存・共有全て簡単にできるサービス「Gyazo」  

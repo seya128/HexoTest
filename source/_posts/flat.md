@@ -10,8 +10,6 @@ tags:
 date: 2018-07-22 11:12:42
 thumbnail: https://i.gyazo.com/ad4bf93fce6f83d233fa2f574e738df6.png
 ---
-![](https://i.gyazo.com/ad4bf93fce6f83d233fa2f574e738df6.png)
-
 オンラインで譜面が作成できるWEBサービス「Flat」を使ってみました。
 
 [Online collaborative music notation software \- Flat](https://flat.io/)
