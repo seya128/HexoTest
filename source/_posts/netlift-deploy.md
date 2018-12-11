@@ -1,5 +1,5 @@
 ---
-title: netliftyにデプロイ
+title: netlifyにデプロイ
 date: 2018-07-05 17:39:26
 thumbnail: https://i.gyazo.com/25fdd93ed497fb5f4fb10724493cec5b.png
 categories:
@@ -8,7 +8,7 @@ categories:
 tags:
 - Hexo
 - Deploy
-- netlifty
+- netlify
 ---
 ## netliftyでブログを公開
 
