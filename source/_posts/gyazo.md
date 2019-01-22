@@ -2,11 +2,10 @@
 title: 「Gyazo」スクリーンショット撮る・保存・共有
 categories:
   - IT
-  - Design
 tags:
   - Gyazo
   - Screenshot
-  - free
+  - WEBサービス
 date: 2018-07-20 23:42:33
 thumbnail: https://i.gyazo.com/b0fcc1ac704963f49db9f35ba5c3d36d.gif
 ---

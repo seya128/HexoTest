@@ -2,11 +2,11 @@
 title: grblのX軸の動作を反転させる
 categories:
   - DIY
-  - CNC
 tags:
   - grbl
   - CNC
   - bCNC
+  - DIY
 date: 2018-12-09 13:43:29
 thumbnail: https://i.gyazo.com/4f2f68df0f965450cd6ecf9a6011cb89.jpg
 ---

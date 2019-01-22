@@ -3,7 +3,6 @@ title: リチウムイオン電池(18650)を充電してみた
 thumbnail: https://i.gyazo.com/70236f51ffa45bbccd8935f836ec01f0.jpg
 categories:
   - DIY
-  - Battery
 tags:
   - Battery
   - 18650

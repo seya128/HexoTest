@@ -2,10 +2,10 @@
 title: ブラックアンドデッカー購入＆丸ノコガイド作成
 categories:
   - DIY
-  - TOOL
 tags:
   - BLACK+DECKER
   - 工具
+  - DIY
 date: 2018-08-21 00:26:18
 thumbnail: https://i.gyazo.com/8837e97fafa6c36e27479c90ff419dbb.jpg
 ---

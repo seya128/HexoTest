@@ -2,11 +2,10 @@
 title: WEBブラウザで譜面が作成できるサービス「Flat」
 categories:
   - IT
-  - Sound
 tags:
   - Flat
-  - score
-  - free
+  - 譜面
+  - WEBサービス
 date: 2018-07-22 11:12:42
 thumbnail: https://i.gyazo.com/ad4bf93fce6f83d233fa2f574e738df6.png
 ---

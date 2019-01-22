@@ -1,11 +1,9 @@
 ---
 title: Audibleで聴いた本１
 categories:
-  - ETC
-  - BOOKS
+  - IT
 tags:
   - Audible
-  - BOOK
 date: 2018-08-10 00:17:43
 thumbnail:
 ---
