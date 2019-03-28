@@ -52,10 +52,10 @@ tags:
  あえて波形をひずませることで、3次高長波成分を出す必要があるそうです。
 1. 「JJY Simulator」を起動し、音声信号出力ボタンをONにする。
 
-[![Image from Gyazo](https://i.gyazo.com/860199bfcfa335a25387b935a9ec4d8e.jpg)](https://gyazo.com/860199bfcfa335a25387b935a9ec4d8e)
+![](https://i.gyazo.com/860199bfcfa335a25387b935a9ec4d8e.jpg)
 
 しばらくすると、今まで電波強度が１～２ぐらいだったのが、４～５ぐらいに上がって、アプリの電波を受信していることがわかる。
-[![Image from Gyazo](https://i.gyazo.com/724877bccf24a07f6a3cbafc8f49516d.jpg)](https://gyazo.com/724877bccf24a07f6a3cbafc8f49516d)
+![](https://i.gyazo.com/724877bccf24a07f6a3cbafc8f49516d.jpg)
 
 
 数分で受信が完了し、時計の針が動いて時刻が正確になります！！
